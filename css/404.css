@@ -187,7 +187,7 @@ code {
   color: white;
 }
 span.blue {
-  color: #48beef;
+  color: #0073ff;
 }
 span.comment {
   color: #7f8c8d;
@@ -196,7 +196,10 @@ span.orange {
   color: #f39c12;
 }
 span.green {
-  color: #33cc33;
+  color: #488b00;
+}
+span.pink {
+    color: #8400ff;
 }
 
 .viewFull {
